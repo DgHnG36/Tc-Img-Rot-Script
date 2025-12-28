@@ -201,7 +201,7 @@ Repeat for each test case number (1 to NUM_CASES).
 ## Project Structure
 
 ```
-image-transformation-detector/
+Tc-Img-Rot-Script/
 ├── compare_data.py          # Main image comparison script
 ├── clear.sh                 # Interactive cleanup script
 ├── gray2mem.py              # Generate grayscale to MEM
